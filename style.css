@@ -50,6 +50,9 @@ button {
     border: none;
 }
 
+body {
+    margin: 0;
+}
 img {
     width: 100%;
 }
